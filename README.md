@@ -9,7 +9,6 @@ Git project from Udacity
 ### Description
 This is just an evidence of using git commands
 and fixing reviewer comments
-add comment
 
 ### Files used
 .gitignore
